@@ -32,4 +32,6 @@ Uses fetch() to load books.json from a local server and shows the required book 
 Uses jQuery 4.0.0 to change text with .text(), add .myStyle with .addClass(), and handle clicks with .on("click", ...).
 
 # Screenshot
+<img width="997" height="101" alt="image" src="https://github.com/user-attachments/assets/f82bac91-cb36-4d8a-837c-4c93bf5a24cd" />
+
 <img width="957" height="912" alt="Screenshot 2026-11-20 000149" src="https://github.com/user-attachments/assets/9f7e8a89-b3b0-47b0-a9ec-1665cb8c8ac8" />
