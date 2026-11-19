@@ -36,3 +36,4 @@ Uses jQuery 4.0.0 to change text with .text(), add .myStyle with .addClass(), an
 
 <img width="957" height="402" alt="Screenshot 2026-11-20 000149" src="https://github.com/user-attachments/assets/351eb11a-4bbf-4709-889c-a88b94fdcef1" />
 
+<img width="1917" height="377" alt="image" src="https://github.com/user-attachments/assets/b3a46da2-facb-4b85-b728-984497728e89" />
