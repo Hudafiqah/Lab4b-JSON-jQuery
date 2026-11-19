@@ -1,4 +1,4 @@
-Lab 4b - JSON and jQuery
+BIC21203 Lab 4b
 Name: NurulHuda Afiqah Binti Elmy  
 Student ID: CI250050  
 
@@ -40,3 +40,4 @@ Uses jQuery 4.0.0 to change text with .text(), add .myStyle with .addClass(), an
 
 ------------------------------------------------------------------------------------------------
 # GitHub Repository
+https://github.com/Hudafiqah/Lab4b-JSON-jQuery
